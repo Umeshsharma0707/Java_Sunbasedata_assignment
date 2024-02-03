@@ -1,0 +1,1 @@
+in this assignment firstly i developed an admin login panel after admin panel developed model class and controller and Dao for the login,insert data.after that if admin login in the page he/she can she saw the list of user in table format and after that admin can update and delete user and admin can also search customer by category.
